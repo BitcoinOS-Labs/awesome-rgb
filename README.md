@@ -1,9 +1,11 @@
 
 # BitcoinOS (RGB) 
 
-Let's Bitcoin Great Always! 
+- Let's Bitcoin Great Always! 
 
-让 BitcoinOS Labs 成为 RGB 爱好者，Builder 的圣地！！！
+- 让 BitcoinOS Labs 成为 RGB 爱好者的乐园，Builder 的圣地！！
+
+- 欢迎所有人一起共建！！！
 
 ## Awesome RGB
 
@@ -58,7 +60,7 @@ Let's Bitcoin Great Always!
 ### Books
 
 - [Mastering RGB] Comming Soon 
-- ![avatar](./images/Marstering%20RGB.jpg)
+- ![avatar](./images/mastering-rgb.jpg)
   
 ### 交流群
     
@@ -71,3 +73,4 @@ Let's Bitcoin Great Always!
 - [Discord Server](https://discord.gg/aagDjy3s)
     
 - Wechat：群二维码 Comming Soon
+
