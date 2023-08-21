@@ -1,7 +1,7 @@
 
 # BitcoinOS (RGB) 
 
-- Let's Bitcoin Great Always! 
+- Make Bitcoin Great Always! 
 
 - 让 BitcoinOS Labs 成为 RGB 爱好者的乐园，Builder 的圣地！！
 
@@ -10,31 +10,32 @@
 ## Awesome RGB
 
 
-### RGB 官网
+### RGB Website
 
 [RGB protocol](https://rgb.tech/)
 
-### 代码仓库
+### Code Repositories
     
 - [RGB command line repo](https://github.com/RGB-WG/rgb)
     
-### RGB 教育
+### RGB Educations
 
 - [RGB info](https://rgb.info/)
   
-### 视频 
+### Videos & Podcasts
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
 
-- [RGB Update: Smart Contracts For Bitcoin & The Lightning Network! -- by Ian Major at 2023-04-24](https://www.youtube.com/watch?v=y2Ak970WpkA)
-
 - [RGB Walkthrough with Maxim Orlovsky(RGB Teach Leader) (SLP501) at 2023-08-16](https://www.youtube.com/watch?v=O3_lNNopDJ0&t=747s)
+
+- [RGB Update: Smart Contracts For Bitcoin & The Lightning Network! -- by Ian Major at 2023-04-24](https://www.youtube.com/watch?v=y2Ak970WpkA)
 
 - [Bitcoin: RGB Maxim Orlovsky + Federico Tenga @ Lightning Summit Viareggio 2023](https://www.youtube.com/watch?v=6U72EKyoDno&ab_channel=MassimoMusumeci)
 
 - [RGB protocol: Asset issuance on Bitcoin and Lightning Network | Plan ₿ Forum 2022 | Lugano by Federico Tenga at 2023-02-28](https://www.youtube.com/watch?v=WBnMiHQCt6g&ab_channel=LuganoPlanB)
 
-
+- [What is RGB for Bitcoin? - Stephan Livera Podcast at 2022-12-08](https://stephanlivera.com/episode/439/)
+  
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance at 2022-09-18](https://www.youtube.com/watch?v=43sqrqfrD9Y&ab_channel=HodlHodl)
   
 
@@ -46,7 +47,6 @@
       
 - [ViaBTC Capital Insight丨A Brief Analysis of RGB: A Scalable, Confidential Smart Contract Protocol… at 2023-08-10](https://medium.com/@ViaBTC_Capital/viabtc-capital-insight丨a-brief-analysis-of-rgb-a-scalable-confidential-smart-contract-protocol-b449f7dbb323)
   
-
     
 ### 文章  -- (特别感谢 [BTCSTUDY.org](http://BTCSTUDY.org) 的优质内容)：
        
@@ -75,10 +75,16 @@
 
 ### Books
 
-- [Mastering RGB] Comming Soon 
+- [Mastering RGB](https://twitter.com/weedcoder/status/1692268657529802790) Comming Soon 
 - ![avatar](./images/mastering-rgb.jpg)
   
-### 交流群
+### Projects
+
+#### DIBA [Website](https://diba.io), [code repo](https://github.com/diba-io/bitmask-core)
+
+#### [Bitswap-BiFi repo](https://github.com/BitSwap-BiFi/Bitswap-core)
+ 
+### 交流群  
     
 #### RGB开发社区电报群：
     
@@ -88,5 +94,5 @@
     
 - [Discord Server](https://discord.gg/aagDjy3s)
     
-- Wechat：群二维码 Comming Soon
+- Wechat：![avatar](images/rgb-wechat.jpg)
 
