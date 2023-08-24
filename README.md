@@ -1,11 +1,11 @@
 
 # BitcoinOS (RGB) 
 
-- Make Bitcoin Great Always! 
+- Make Bitcoin Great Forever ! 
 
 - 让 BitcoinOS Labs 成为 RGB 爱好者的乐园，Builder 的圣地！！
 
-- 欢迎所有人一起共建！！！
+- 欢迎所有人一起共建 ！！！
 
 ## Awesome RGB
 
@@ -17,6 +17,14 @@
 ### Code Repositories
     
 - [RGB command line repo](https://github.com/RGB-WG/rgb)
+
+- [RGB Core](https://github.com/RGB-WG/rgb-core)
+  
+- [RGB Tools](https://github.com/RGB-Tools)
+  
+- [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
+  
+- [RGB Lightning Sampel](https://github.com/RGB-Tools/rgb-lightning-sample)
     
 ### RGB Educations
 
@@ -34,6 +42,8 @@
 
 - [RGB protocol: Asset issuance on Bitcoin and Lightning Network | Plan ₿ Forum 2022 | Lugano by Federico Tenga at 2023-02-28](https://www.youtube.com/watch?v=WBnMiHQCt6g&ab_channel=LuganoPlanB)
 
+- [SLP439 Federico Tenga - What is RGB for Bitcoin? Iris Wallet at 2023-01-05](https://www.youtube.com/watch?v=B33lV99eG3Q&t=61s&ab_channel=StephanLivera)
+  
 - [What is RGB for Bitcoin? - Stephan Livera Podcast at 2022-12-08](https://stephanlivera.com/episode/439/)
   
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance at 2022-09-18](https://www.youtube.com/watch?v=43sqrqfrD9Y&ab_channel=HodlHodl)
@@ -41,7 +51,7 @@
 
 ### 研报
     
-- [详解RGB协议：另辟蹊径，创造比特币资产发行新二层 at 2023-08-14](https://www.panewslab.com/zh/articledetails/xex71e66.html)
+- [详解RGB协议：另辟蹊径，创造比特币资产发行新二层 at 2023-08-14](https://www.panewslab.com/zh/articledetails/xex71e66.html), [English](https://www.cointime.com/news/driving-mass-adoption-of-crypto-81155)
     
 - [How Can RGB Improve Bitcoin? -- by Bitfinex at 2023-06-21](https://blog.bitfinex.com/education/how-can-rgb-improve-bitcoin/)
       
@@ -82,7 +92,7 @@
 
 #### DIBA [Website](https://diba.io), [code repo](https://github.com/diba-io/bitmask-core)
 
-#### [Bitswap-BiFi repo](https://github.com/BitSwap-BiFi/Bitswap-core)
+#### Bitswap-BiFi [repo](https://github.com/BitSwap-BiFi/Bitswap-core)
  
 ### 交流群  
     
