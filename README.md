@@ -7,10 +7,10 @@
 
 - 欢迎所有人一起共建 ！！！
 
-## Awesome RGB
+## Awesome RGB(Really Good Bitcoin)
 
 
-### RGB Website
+### RGB Websites
 
 [RGB protocol](https://rgb.tech/)
 
@@ -51,6 +51,8 @@
 
 ### 研报
     
+- [比特币从支付到智能合约，RGB 开启 Web3 新征程 at 2023-08-31](https://learnblockchain.cn/article/6475)
+  
 - [详解RGB协议：另辟蹊径，创造比特币资产发行新二层 at 2023-08-14](https://www.panewslab.com/zh/articledetails/xex71e66.html), [English](https://www.cointime.com/news/driving-mass-adoption-of-crypto-81155)
     
 - [How Can RGB Improve Bitcoin? -- by Bitfinex at 2023-06-21](https://blog.bitfinex.com/education/how-can-rgb-improve-bitcoin/)
@@ -58,7 +60,7 @@
 - [ViaBTC Capital Insight丨A Brief Analysis of RGB: A Scalable, Confidential Smart Contract Protocol… at 2023-08-10](https://medium.com/@ViaBTC_Capital/viabtc-capital-insight丨a-brief-analysis-of-rgb-a-scalable-confidential-smart-contract-protocol-b449f7dbb323)
   
     
-### 文章  -- (特别感谢 [BTCSTUDY.org](http://BTCSTUDY.org) 的优质内容)：
+### Articles  -- (特别感谢 [BTCSTUDY.org](http://BTCSTUDY.org) 的优质内容)：
        
 - [LNP/BP 简介](https://www.btcstudy.org/2022/04/01/LNP-BP-a-gentle-introduction/)
     
