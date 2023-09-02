@@ -9,6 +9,8 @@
 
 ## Awesome RGB(Really Good Bitcoin)
 
+- ![avatar](./images/web4.jpg)
+
 
 ### RGB Websites
 
