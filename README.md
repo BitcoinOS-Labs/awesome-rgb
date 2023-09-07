@@ -85,6 +85,10 @@
 - [What is the RGB Protocol on Bitcoin?](https://trustmachines.co/learn/what-is-the-rgb-protocol-on-bitcoin/)
 
 - [Emergence of Token Layers on Bitcoin: Overview of Client-Side Validation, RGB and Taro](https://medium.com/diamond-hands/release-of-new-report-emergence-of-token-layers-on-bitcoin-overview-of-client-side-validation-f3ae271ca283)
+  
+- [RGB v0.10 becomes stable at 2023-09-06](https://rgb.tech/blog/release-v0-10-stable/)
+  
+- [RGB20 and RGB21 on Bitcoin mainnet with BitMask at 2023-09-07](https://dibaglobal.medium.com/rgb20-and-rgb21-on-bitcoin-mainnet-with-bitmask-35c520bd4e6d)
     
 
 ### Books
