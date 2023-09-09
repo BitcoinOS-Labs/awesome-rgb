@@ -93,7 +93,7 @@
 
 ### Threads
 
-- [BiFi thinkg at 2023-09-09](https://twitter.com/dr_orlovsky/status/1700429104569270327) by [Maxim Orlovsky](https://twitter.com/dr_orlovsky)
+- [BiFi thinking with Bitcoin + LN + RGB at 2023-09-09](https://twitter.com/dr_orlovsky/status/1700429104569270327) by [Maxim Orlovsky](https://twitter.com/dr_orlovsky)
 
 - [Tether will issue USDT with RGB at 2023-08-17](https://twitter.com/paoloardoino/status/1692154723875328228) by [Paolo Ardoino (Tether CTO)](https://twitter.com/paoloardoino)
   
@@ -108,7 +108,7 @@
 
 #### Bitswap-BiFi [repo](https://github.com/BitSwap-BiFi/Bitswap-core)
  
- 
+
 ### Community Group 
     
 #### RGB official developer Telegram Group：
