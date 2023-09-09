@@ -51,7 +51,7 @@
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance at 2022-09-18](https://www.youtube.com/watch?v=43sqrqfrD9Y&ab_channel=HodlHodl)
   
 
-### 研报
+### Researches
     
 - [比特币从支付到智能合约，RGB 开启 Web3 新征程 at 2023-08-31](https://learnblockchain.cn/article/6475)
   
@@ -91,6 +91,12 @@
 - [RGB20 and RGB21 on Bitcoin mainnet with BitMask at 2023-09-07](https://dibaglobal.medium.com/rgb20-and-rgb21-on-bitcoin-mainnet-with-bitmask-35c520bd4e6d)
     
 
+### Threads
+
+- [BiFi thinkg at 2023-09-09](https://twitter.com/dr_orlovsky/status/1700429104569270327) by [Maxim Orlovsky](https://twitter.com/dr_orlovsky)
+
+- [Tether will issue USDT with RGB at 2023-08-17](https://twitter.com/paoloardoino/status/1692154723875328228) by [Paolo Ardoino (Tether CTO)](https://twitter.com/paoloardoino)
+  
 ### Books
 
 - [Mastering RGB](https://twitter.com/weedcoder/status/1692268657529802790) Comming Soon 
@@ -102,9 +108,10 @@
 
 #### Bitswap-BiFi [repo](https://github.com/BitSwap-BiFi/Bitswap-core)
  
-### 交流群  
+ 
+### Community Group 
     
-#### RGB开发社区电报群：
+#### RGB official developer Telegram Group：
     
 - [RGB Q&A/community group](https://t.me/rgbtelegram)
     
@@ -114,3 +121,12 @@
     
 - Wechat：![avatar](images/rgb-wechat.jpg)
 
+## Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, the author has waived all copyright and
+related or neighboring rights to this work.
