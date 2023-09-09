@@ -114,12 +114,7 @@
 #### RGB official developer Telegram Group：
     
 - [RGB Q&A/community group](https://t.me/rgbtelegram)
-    
-#### RGB Builder DAO:
-    
-- [Discord Server](https://discord.gg/aagDjy3s)
-    
-- Wechat：![avatar](images/rgb-wechat.jpg)
+  
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
