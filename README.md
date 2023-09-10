@@ -101,6 +101,13 @@
 
 - [Mastering RGB](https://twitter.com/weedcoder/status/1692268657529802790) Comming Soon 
 - ![avatar](./images/mastering-rgb.jpg)
+
+- [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+- ![avatar](./images/mastering-ln.png)
+
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- ![avatar](./images/mastering-bitcoin.png)
+  
   
 ### Projects
 
