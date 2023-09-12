@@ -89,7 +89,8 @@
 - [RGB v0.10 becomes stable at 2023-09-06](https://rgb.tech/blog/release-v0-10-stable/)
   
 - [RGB20 and RGB21 on Bitcoin mainnet with BitMask at 2023-09-07](https://dibaglobal.medium.com/rgb20-and-rgb21-on-bitcoin-mainnet-with-bitmask-35c520bd4e6d)
-    
+
+- [RGB 的真正潜能 at 2023-09-12](https://www.btcstudy.org/2023/09/12/the-potential-of-RGB-protocol/)
 
 ### Threads
 
