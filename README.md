@@ -92,6 +92,8 @@
 
 - [RGB 的真正潜能 at 2023-09-12](https://www.btcstudy.org/2023/09/12/the-potential-of-RGB-protocol/)
 
+- [Client-side validation at 2023-09-13 ](https://bitcoinops.org/en/topics/client-side-validation/) by [Bitcoin OpTech](https://bitcoinops.org/en/newsletters/2023/09/13/)
+
 ### Threads
 
 - [BiFi thinking with Bitcoin + LN + RGB at 2023-09-09](https://twitter.com/dr_orlovsky/status/1700429104569270327) by [Maxim Orlovsky](https://twitter.com/dr_orlovsky)
