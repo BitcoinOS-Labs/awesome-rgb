@@ -1,11 +1,48 @@
 
-# BitcoinOS (RGB) 
+# ![avatar](./images/RGB_Logo.png)
 
-- Make Bitcoin Great Forever ! 
+# What is RGB?
 
-- 让 BitcoinOS Labs 成为 RGB 爱好者的乐园，Builder 的圣地！！
+- RGB is a scalable & confidential smart contracts system for Bitcoin & lightning network. They embrace concepts of private & mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
+- RGB is not a token protocol. Though issuance and management of highly scalable, programmable and private assets of different sort is possible with RGB, it can be applied in many industries far beyond financial world.
 
-- 欢迎所有人一起共建 ！！！
+As a smart contract system RGB is quite different from previous approaches, both Bitcoin-based (Colored coins, Counterparty, OMNI) and non-bitcoin (Ethereum, EOS and others):
+
+- RGB separates concept of smart contract issuer, state owners and state evolution
+- RGB keeps the smart contract code and data off-chain
+- RGB uses blockchain as a state commitment layer and Bitcoin script as an ownership control system; while smart contract evolution is defined by off-chain schema
+  
+## Core underlying concepts
+In order to understand technical details behind RGB one has to become familiar with the following concepts, which are heavily used in RGB design:
+
+- Distributed systems (replicated state machines), including
+    - PRISM (partially-replicated infinite state machines) computing
+    - AluVM instruction set architecture
+- Non-imperative computing, including
+    - Declarative functional programming
+    - Cellular automation
+- Zero knowledge protocols, including
+    - Confidential transactions
+    - Bulletproofs
+- Cryptographic commitment schemes, including
+    - BIP-340 tagged hashes
+    - Advanced merklization schemes (LNPBP-81)
+    - Multi-message commitments (LNPBP-4)
+    - Deterministic bitcoin commitments (LNPBP-1, 2, 3)
+- Client-side-validation, including:
+    - Strict encoding (LNPBP-7)
+    - Commit-conceal schemes
+    - Single-use-seals
+    - Proof-of-publication
+- Bitcoin transactions, including
+    - PSBTs v1 and v2 (BIP-174, BIP-370)
+    - Bitcoin TxO2 single-use-seals
+- Lightning network protocol, including
+    - Lightning P2P message extensions
+    - Generalized lightning channels
+
+More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-is-rgb)
+
 
 ## Awesome RGB(Really Good Bitcoin)
 
@@ -62,7 +99,7 @@
 - [ViaBTC Capital Insight丨A Brief Analysis of RGB: A Scalable, Confidential Smart Contract Protocol… at 2023-08-10](https://medium.com/@ViaBTC_Capital/viabtc-capital-insight丨a-brief-analysis-of-rgb-a-scalable-confidential-smart-contract-protocol-b449f7dbb323)
   
     
-### Articles  -- (特别感谢 [BTCSTUDY.org](http://BTCSTUDY.org) 的优质内容)：
+### Articles  -- (Thanks for [BTCSTUDY](http://btcstudy.org))：
        
 - [LNP/BP 简介](https://www.btcstudy.org/2022/04/01/LNP-BP-a-gentle-introduction/)
     
@@ -121,6 +158,14 @@
 
 ### Community Group 
     
+#### BitcoinOS (RGB) 
+
+- Make Bitcoin Great Forever ! 
+
+- Let BitcoinOS Labs become a paradise for RGB enthusiasts, a sanctuary for builders!
+
+- Welcome everyone to join in building together!
+- 
 #### RGB official developer Telegram Group：
     
 - [RGB Q&A/community group](https://t.me/rgbtelegram)
