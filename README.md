@@ -46,16 +46,17 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 ## Awesome RGB(Really Good Bitcoin)
 
-- ![avatar](./images/web4.jpg)
-
-
+![avatar](./images/web4.jpg)
+  
 ### RGB Websites
 
 [RGB protocol](https://rgb.tech/)
 
 ### Code Repositories
-    
-- [RGB command line repo](https://github.com/RGB-WG/rgb)
+
+![avatar](./images/rgb-stack.png)
+
+- [RGB (Contracts/Cli)](https://github.com/RGB-WG/rgb)
 
 - [RGB Core](https://github.com/RGB-WG/rgb-core)
   
@@ -63,7 +64,7 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 - [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
   
-- [RGB Lightning Sampel](https://github.com/RGB-Tools/rgb-lightning-sample)
+- [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
     
 ### RGB Educations
 
