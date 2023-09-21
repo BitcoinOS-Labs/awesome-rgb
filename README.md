@@ -58,14 +58,18 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [RGB (Contracts/Cli)](https://github.com/RGB-WG/rgb)
 
+- [RGB Wallet & Standard](https://github.com/RGB-WG/rgb-wallet)
+  
+- [RGB Node](https://github.com/RGB-WG/rgb-node)
+
 - [RGB Core](https://github.com/RGB-WG/rgb-core)
-  
-- [RGB Tools](https://github.com/RGB-Tools)
-  
-- [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
+
+- [RGB Lightning Node](https://github.com/RGB-Tools/rgb-lightning-node)
   
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
     
+- [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
+  
 ### RGB Educations
 
 - [RGB info](https://rgb.info/)
