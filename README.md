@@ -50,7 +50,11 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 ### RGB Websites
 
-[RGB protocol](https://rgb.tech/)
+- [RGB protocol](https://rgb.tech/)
+
+- [RGB FAQ](https://www.rgbfaq.com)
+  
+- [RGB Blackpaper](https://blackpaper.rgb.tech/)
 
 ### Code Repositories
 
