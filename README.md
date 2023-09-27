@@ -82,6 +82,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
 
+- [Explore How RGB Colors Coins in Secret Builder Presentation with @cryptoquick at 2023-09-20](https://www.youtube.com/watch?v=ra8xhGJa_WY&ab_channel=PlebLab)
+  
 - [RGB Walkthrough with Maxim Orlovsky(RGB Teach Leader) (SLP501) at 2023-08-16](https://www.youtube.com/watch?v=O3_lNNopDJ0&t=747s)
 
 - [RGB Update: Smart Contracts For Bitcoin & The Lightning Network! -- by Ian Major at 2023-04-24](https://www.youtube.com/watch?v=y2Ak970WpkA)
