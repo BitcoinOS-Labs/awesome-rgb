@@ -73,6 +73,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
     
 - [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
+
+- [AluVM virtual machine](https://github.com/AluVM/rust-aluvm)
   
 ### RGB Educations
 
