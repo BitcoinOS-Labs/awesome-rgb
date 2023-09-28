@@ -84,6 +84,9 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
 
+- [Prime: new Layer1 for Bitcoin - new opportunities for miners from 7:25:21 at 2023-09-26 on PoWSummit](https://www.youtube.com/watch?v=uq01tDKvxOg&ab_channel=ETCCooperative) by [Maxim Orlovsky(@dr_orlovsky
+)](https://twitter.com/dr_orlovsky)
+
 - [Explore How RGB Colors Coins in Secret Builder Presentation with @cryptoquick at 2023-09-20](https://www.youtube.com/watch?v=ra8xhGJa_WY&ab_channel=PlebLab)
   
 - [RGB Walkthrough with Maxim Orlovsky(RGB Teach Leader) (SLP501) at 2023-08-16](https://www.youtube.com/watch?v=O3_lNNopDJ0&t=747s)
