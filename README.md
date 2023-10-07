@@ -100,6 +100,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [SLP439 Federico Tenga - What is RGB for Bitcoin? Iris Wallet at 2023-01-05](https://www.youtube.com/watch?v=B33lV99eG3Q&t=61s&ab_channel=StephanLivera)
   
 - [What is RGB for Bitcoin? - Stephan Livera Podcast at 2022-12-08](https://stephanlivera.com/episode/439/)
+
+- [Taproot, Bifrost & single-use seals at 2022-11-24](https://www.youtube.com/watch?v=B_3ntBI8x40&t=3s&ab_channel=LNPBPStandardsAssociation)
   
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance at 2022-09-18](https://www.youtube.com/watch?v=43sqrqfrD9Y&ab_channel=HodlHodl)
   
