@@ -107,6 +107,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 - [Bifrost Introduction: Bifrost as BiFi platform at 2021-11-15](https://www.youtube.com/watch?v=fTrY74G5-G8&ab_channel=LNPBPStandardsAssociation)
   
+- [Single use seals & DID at 2021-06-07](https://www.youtube.com/watch?v=gGPLYfWOb_8&ab_channel=LNPBPStandardsAssociation)
+  
 ### Researches
     
 - [比特币从支付到智能合约，RGB 开启 Web3 新征程 at 2023-08-31](https://learnblockchain.cn/article/6475)
