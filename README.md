@@ -84,6 +84,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
 
+- [E125: RGB Deep-Dive & Scaling Bitcoin with Hunter Beast - Director of Engineering at DIBA at 2023-10-15](https://www.youtube.com/watch?v=iZJQ2J-uNtE&t=1s&ab_channel=BuiltonBitcoin)
+  
 - [Prime: new Layer1 for Bitcoin - new opportunities for miners from 7:25:21 at 2023-09-26 on PoWSummit](https://www.youtube.com/watch?v=uq01tDKvxOg&ab_channel=ETCCooperative) by [Maxim Orlovsky(@dr_orlovsky
 )](https://twitter.com/dr_orlovsky), or read the [slides](https://diyhpl.us/wiki/transcripts/proof-of-work-summit/2023/prime/)
 
