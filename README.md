@@ -109,6 +109,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance at 2022-09-18](https://www.youtube.com/watch?v=43sqrqfrD9Y&ab_channel=HodlHodl)
   
+- [Modernizing RGB with Taproot at 2022-04-02](https://www.youtube.com/watch?v=7sBAtv88mSE&ab_channel=LNPBPStandardsAssociation)
+  
 - [Bifrost Introduction: Bifrost as BiFi platform at 2021-11-15](https://www.youtube.com/watch?v=fTrY74G5-G8&ab_channel=LNPBPStandardsAssociation)
   
 - [Single use seals & DID at 2021-06-07](https://www.youtube.com/watch?v=gGPLYfWOb_8&ab_channel=LNPBPStandardsAssociation)
