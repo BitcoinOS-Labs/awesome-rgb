@@ -160,6 +160,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 ### Threads
 
+- [A Quick Take on RGB smart contracts at 2023-10-25](https://twitter.com/dr_ukolova/status/1717098294365597873)
+  
 - [Difference between Taproot Assets and RGB at 2023-10-20](https://twitter.com/cryptoquick/status/1715283848366317673) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
   
 - [BiFi thinking with Bitcoin + LN + RGB at 2023-09-09](https://twitter.com/dr_orlovsky/status/1700429104569270327) by [Maxim Orlovsky](https://twitter.com/dr_orlovsky)
@@ -167,6 +169,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [Tether will issue USDT with RGB at 2023-08-17](https://twitter.com/paoloardoino/status/1692154723875328228) by [Paolo Ardoino (Tether CTO)](https://twitter.com/paoloardoino)
 
 - [How to share RGB at 2023-06-13](https://twitter.com/cryptoquick/status/1668331191190310912) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
+
+- [List of non-existent informational resources and documentation on #RGB at 2023-02-16](https://twitter.com/dr_ukolova/status/1625960180629340175) created and curated [@dr_orlovsky](https://twitter.com/dr_orlovsky) and [@lnp_bp](https://twitter.com/lnp_bp)
   
 ### Books
 
