@@ -156,6 +156,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [Client-side validation at 2023-09-13 ](https://bitcoinops.org/en/topics/client-side-validation/) by [Bitcoin OpTech](https://bitcoinops.org/en/newsletters/2023/09/13/)
 
+- [Paolo Ardoino sees RGB as 'best opportunity' to issue stablecoins on Bitcoin](https://www.theblock.co/post/258350/bitfinex-rgb-bitcoin-stablecoins)
+
 ### Threads
 
 - [Difference between Taproot Assets and RGB at 2023-10-20](https://twitter.com/cryptoquick/status/1715283848366317673) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
