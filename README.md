@@ -160,6 +160,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [Paolo Ardoino sees RGB as 'best opportunity' to issue stablecoins on Bitcoin](https://www.theblock.co/post/258350/bitfinex-rgb-bitcoin-stablecoins)
 
+- [A Brief Overview on RGB — Can RGB Replicate The Ordinals Hype at 2023-11-02](https://www.bitget.com/news/detail/12560603830569) By Kernel Ventures
+
 ### Threads
 
 - [A Quick Take on RGB smart contracts at 2023-10-25](https://twitter.com/dr_ukolova/status/1717098294365597873)
