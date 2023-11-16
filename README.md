@@ -162,6 +162,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [A Brief Overview on RGB — Can RGB Replicate The Ordinals Hype at 2023-11-02](https://www.bitget.com/news/detail/12560603830569) By Kernel Ventures
 
+- [链下转移：比特币资产协议的演进之路](https://www.chaincatcher.com/article/2105332) by Ben77
+
 ### Threads
 
 - [A Quick Take on RGB smart contracts at 2023-10-25](https://twitter.com/dr_ukolova/status/1717098294365597873)
