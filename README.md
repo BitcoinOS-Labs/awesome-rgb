@@ -84,9 +84,9 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
 
-- [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.2](https://www.youtube.com/watch?v=t3U8XsRndvc&ab_channel=BOLTFUN) by Federico(Bitfinex)
+- [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.2 at 2023-11-21](https://www.youtube.com/watch?v=t3U8XsRndvc&ab_channel=BOLTFUN) by Federico(Bitfinex)
   
-- [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.1](https://www.youtube.com/watch?v=23_IKrIonQk&ab_channel=BOLTFUN) by Federico(Bitfinex)
+- [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.1 at 2023-11-13](https://www.youtube.com/watch?v=23_IKrIonQk&ab_channel=BOLTFUN) by Federico(Bitfinex)
   
 - [Protocols on Top of Bitcoin: Panel moderated by Giacomo Zucco in Viareggio, Oct 2023. Participants: Alekos Filini, Peter Todd, Maxim Orlovsky, Adam Back. at 2023-10-17](https://www.youtube.com/watch?v=7L-RKqgRr7Y&ab_channel=MassimoMusumeci)
   
