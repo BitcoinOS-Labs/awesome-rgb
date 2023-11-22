@@ -84,7 +84,9 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
 
-- [Asset Issuance On Bitcoin: Discovering The RGB Protoco](https://www.youtube.com/watch?v=23_IKrIonQk&ab_channel=BOLTFUN) by Federico(Bitfinex)
+- [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.2](https://www.youtube.com/watch?v=t3U8XsRndvc&ab_channel=BOLTFUN) by Federico(Bitfinex)
+  
+- [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.1](https://www.youtube.com/watch?v=23_IKrIonQk&ab_channel=BOLTFUN) by Federico(Bitfinex)
   
 - [Protocols on Top of Bitcoin: Panel moderated by Giacomo Zucco in Viareggio, Oct 2023. Participants: Alekos Filini, Peter Todd, Maxim Orlovsky, Adam Back. at 2023-10-17](https://www.youtube.com/watch?v=7L-RKqgRr7Y&ab_channel=MassimoMusumeci)
   
@@ -163,8 +165,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [Paolo Ardoino sees RGB as 'best opportunity' to issue stablecoins on Bitcoin](https://www.theblock.co/post/258350/bitfinex-rgb-bitcoin-stablecoins)
 
 - [A Brief Overview on RGB — Can RGB Replicate The Ordinals Hype at 2023-11-02](https://www.bitget.com/news/detail/12560603830569) By Kernel Ventures
-
-- [链下转移：比特币资产协议的演进之路](https://www.chaincatcher.com/article/2105332) by Ben77
+  
+- [链下转移：比特币资产协议的演进之路 at 2023-11-06](https://www.chaincatcher.com/article/2105332) by Ben77
 
 ### Threads
 
