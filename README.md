@@ -121,6 +121,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 ### Researches
     
+- [Evolution and challenge of BTC expansion from asset issuance](https://coinvoice.net/article/1727475514136592386) [从资产发行看BTC扩容的演化与挑战](https://mp.weixin.qq.com/s/M9SNcbEll03mlEBJFcOjEg) at 2023-11-22
+  
 - [比特币从支付到智能合约，RGB 开启 Web3 新征程 at 2023-08-31](https://learnblockchain.cn/article/6475)
   
 - [详解RGB协议：另辟蹊径，创造比特币资产发行新二层 at 2023-08-14](https://www.panewslab.com/zh/articledetails/xex71e66.html), [English](https://www.cointime.com/news/driving-mass-adoption-of-crypto-81155)
