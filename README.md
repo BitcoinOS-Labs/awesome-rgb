@@ -88,6 +88,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 - [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.1 at 2023-11-13](https://www.youtube.com/watch?v=23_IKrIonQk&ab_channel=BOLTFUN) by Federico(Bitfinex)
   
+- [Radiant on BitcoinMagazine](https://www.youtube.com/watch?v=E1yvIOXz8Tg&ab_channel=BitcoinMagazine) at 2023-11-05 by Olga Ukolova 
+  
 - [Protocols on Top of Bitcoin: Panel moderated by Giacomo Zucco in Viareggio, Oct 2023. Participants: Alekos Filini, Peter Todd, Maxim Orlovsky, Adam Back. at 2023-10-17](https://www.youtube.com/watch?v=7L-RKqgRr7Y&ab_channel=MassimoMusumeci)
   
 - [E125: RGB Deep-Dive & Scaling Bitcoin with Hunter Beast - Director of Engineering at DIBA at 2023-10-15](https://www.youtube.com/watch?v=iZJQ2J-uNtE&t=1s&ab_channel=BuiltonBitcoin)
