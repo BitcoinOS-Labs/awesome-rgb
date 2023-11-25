@@ -221,6 +221,11 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
     
 - [RGB Q&A/community group](https://t.me/rgbtelegram)
   
+#### Related Resources:
+
+- [Bitcoin Dev Kit](https://bitcoindevkit.org/)
+  
+- [Lightning Dev Kit](https://lightningdevkit.org/)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
