@@ -191,14 +191,14 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 ### Books
 
 - [Mastering RGB](https://twitter.com/weedcoder/status/1692268657529802790) Comming Soon 
-- ![avatar](./images/mastering-rgb.jpg)
+
 
 - [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
-- ![avatar](./images/mastering-ln.png)
 
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
-- ![avatar](./images/mastering-bitcoin.png)
-  
+
+- [Mastering Bitcoin 2nd edition](https://github.com/bitcoinbook/bitcoinbook)
+
+- [Bitcoin development philosophy](https://bitcoindevphilosophy.com/)
   
 ### Projects
 
@@ -216,7 +216,7 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - Let BitcoinOS Labs become a paradise for RGB enthusiasts, a sanctuary for builders!
 
 - Welcome everyone to join in building together!
-- 
+  
 #### RGB official developer Telegram Group：
     
 - [RGB Q&A/community group](https://t.me/rgbtelegram)
