@@ -227,6 +227,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 - [Lightning Dev Kit](https://lightningdevkit.org/)
 
+- [Learn me a bitcoin](https://learnmeabitcoin.com/)
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
