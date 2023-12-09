@@ -83,7 +83,9 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 ### Videos & Podcasts
 
 - [LNPBP Standards Association videos on Youtube](https://www.youtube.com/@LNPBP)
-
+ 
+- [BTC资产 - 从Colored Coin到Taproot Assets at 2023-12-01](https://youtu.be/5UkKiqltktY) by Ben77 
+- 
 - [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.2 at 2023-11-21](https://www.youtube.com/watch?v=t3U8XsRndvc&ab_channel=BOLTFUN) by Federico(Bitfinex)
   
 - [Asset Issuance On Bitcoin: Discovering The RGB Protoco vol.1 at 2023-11-13](https://www.youtube.com/watch?v=23_IKrIonQk&ab_channel=BOLTFUN) by Federico(Bitfinex)
