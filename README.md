@@ -206,6 +206,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 #### DIBA [Website](https://diba.io), [code repo](https://github.com/diba-io/bitmask-core)
 
+### Iris wallet [repo](https://github.com/RGB-Tools/iris-wallet-android)
+
 #### Bitswap-BiFi [repo](https://github.com/BitSwap-BiFi/Bitswap-core)
  
 
