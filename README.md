@@ -203,6 +203,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [Mastering Bitcoin 2nd edition](https://github.com/bitcoinbook/bitcoinbook)
 
 - [Bitcoin development philosophy](https://bitcoindevphilosophy.com/)
+
+- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) by Christopher Allen and Shannon Appelcline
   
 ### Projects
 
