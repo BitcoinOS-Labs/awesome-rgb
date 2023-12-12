@@ -178,6 +178,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 ### Threads
 
+- [RGB 0.11 will have Liquid support](https://twitter.com/cryptoquick/status/1734288972468363743) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
+  
 - [A Quick Take on RGB smart contracts at 2023-10-25](https://twitter.com/dr_ukolova/status/1717098294365597873)
   
 - [Difference between Taproot Assets and RGB at 2023-10-20](https://twitter.com/cryptoquick/status/1715283848366317673) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
