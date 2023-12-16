@@ -176,6 +176,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
   
 - [链下转移：比特币资产协议的演进之路 at 2023-11-06](https://www.chaincatcher.com/article/2105332) by Ben77
 
+- [LK Venture & Infinitas 研报：比特币 RGB 协议或是智能合约的终极形态? at 2023-12-15](https://news.marsbit.co/20231215155633552293.html)
+
 ### Threads
 
 - [RGB 0.11 will have Liquid support](https://twitter.com/cryptoquick/status/1734288972468363743) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
