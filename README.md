@@ -178,6 +178,10 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [LK Venture & Infinitas 研报：比特币 RGB 协议或是智能合约的终极形态? at 2023-12-15](https://news.marsbit.co/20231215155633552293.html)
 
+- [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733) at 2024-02-13
+
+- [RGB++：为正统比特币L2添砖加瓦](https://mirror.xyz/dapangdun.eth/ow12nfLreKWBkVpznN6DC2L10-6gY1mW-Gz8V08NS-w) at 2024-02-15
+
 ### Threads
 
 - [RGB 0.11 will have Liquid support](https://twitter.com/cryptoquick/status/1734288972468363743) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
