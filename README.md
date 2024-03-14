@@ -185,7 +185,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [RGB++：为正统比特币L2添砖加瓦](https://mirror.xyz/dapangdun.eth/ow12nfLreKWBkVpznN6DC2L10-6gY1mW-Gz8V08NS-w) by [DaPangDun](https://twitter.com/DaPangDunCrypto) at 2024-02-15
 
 ### Threads
-
+- [Decentralized censorship-resistant secondary stock market 📈 is of paramount importance - and with #RGB](https://twitter.com/pandoraprime_ch/status/1767892727495012614) by [@pandoraprime_ch](https://twitter.com/pandoraprime_ch) at 2024-03-13
+  
 - [RGB 0.11 will have Liquid support](https://twitter.com/cryptoquick/status/1734288972468363743) by [Hunter ₿eaṩt](https://twitter.com/cryptoquick)
   
 - [A Quick Take on RGB smart contracts at 2023-10-25](https://twitter.com/dr_ukolova/status/1717098294365597873)
