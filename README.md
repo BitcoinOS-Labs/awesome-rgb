@@ -183,6 +183,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 - [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733) by [cipher](https://twitter.com/crypcipher) at 2024-02-13
 
 - [RGB++：为正统比特币L2添砖加瓦](https://mirror.xyz/dapangdun.eth/ow12nfLreKWBkVpznN6DC2L10-6gY1mW-Gz8V08NS-w) by [DaPangDun](https://twitter.com/DaPangDunCrypto) at 2024-02-15
+  
+- [RGB v0.11 Beta 5 is out](https://rgb.tech/blog/release-v0-11-beta-5/) at 2024-03-29
 
 ### Threads
 - [Decentralized censorship-resistant secondary stock market 📈 is of paramount importance - and with #RGB](https://twitter.com/pandoraprime_ch/status/1767892727495012614) by [@pandoraprime_ch](https://twitter.com/pandoraprime_ch) at 2024-03-13
