@@ -184,6 +184,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [RGB++：为正统比特币L2添砖加瓦](https://mirror.xyz/dapangdun.eth/ow12nfLreKWBkVpznN6DC2L10-6gY1mW-Gz8V08NS-w) by [DaPangDun](https://twitter.com/DaPangDunCrypto) at 2024-02-15
   
+- [深入研究比特币：（3）RGB 协议介绍](https://www.less-bug.com/posts/in-depth-study-of-bitcoin-3-introduction-to-rgb-protocol/) by Pluveto(Zijing Zhang) at 2024-03-11
+  
 - [RGB v0.11 Beta 5 is out](https://rgb.tech/blog/release-v0-11-beta-5/) at 2024-03-29
 
 ### Threads
