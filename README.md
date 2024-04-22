@@ -205,6 +205,8 @@ More about informations can be read [What is RGB?](https://www.rgbfaq.com/what-i
 
 - [List of non-existent informational resources and documentation on #RGB at 2023-02-16](https://twitter.com/dr_ukolova/status/1625960180629340175) created and curated [@dr_orlovsky](https://twitter.com/dr_orlovsky) and [@lnp_bp](https://twitter.com/lnp_bp)
   
+- [Bitcoin universal computing with L2 client-side validation using AluVM and RGB assembly](https://twitter.com/lnp_bp/status/1782385541985530314) by  [@lnp_bp](https://twitter.com/lnp_bp) at 2024-04-22
+  
 ### Books
 
 - [Mastering RGB](https://twitter.com/weedcoder/status/1692268657529802790) Comming Soon 
